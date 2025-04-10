@@ -15,18 +15,6 @@ This little webpage is my digital home on the web — short, sweet, and all me.
 
 ---
 
-## 🚧 What Is This Repo?
-
-This is my minimalist personal website built using:
-
-- `HTML` (because structure is everything)
-- `CSS` (just enough to make it look like I tried)
-- `✨ vibes`
-
-Live site coming soon™ — or hosted via GitHub Pages if I remember to push it.
-
----
-
 ## 🔗 Let's Connect (Internet-style)
 
 - 🧠 [GitHub](https://github.com/amanpreetkaur112)
@@ -35,12 +23,6 @@ Live site coming soon™ — or hosted via GitHub Pages if I remember to push it
 - 📬 [Gmail](mailto:apreetkaur112@gmail.com)
 
 Or just wave at your screen. I might feel it. 👋
-
----
-
-## 📄 License
-
-MIT — meaning you can fork it, remix it, or print it and hang it on your wall. Just don’t pretend you’re me. 😜
 
 ---
 
